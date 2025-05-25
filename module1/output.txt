@@ -1,1 +1,3 @@
-Hello world
+10
+A
+35.55
