@@ -12,5 +12,8 @@ int main() {
     ss >> word;
     cout << word << endl;
     ss >> word;
+    while(ss >> word){
+       cout << word << endl; 
+    }
     return 0;
 }
