@@ -1,5 +1,5 @@
+Jahid 10 50
+Sakib 11 50
+Karim 12 50
+Jarim 13 50
 Sarim 14 50
-Sakib 11 51
-Karim 12 60
-Jarim 13 66
-Jahid 10 80
